@@ -1,4 +1,4 @@
-### Hi there I'm [Dan Katorza]!
+### Hi there I'm Dan Katorza.
 
 
 #### Welcome to my profile 💻
