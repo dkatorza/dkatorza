@@ -32,6 +32,7 @@
 ### Recent Projects 👨‍💻
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkatorza&repo=jello&show_icons=true&theme=monokai">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dkatorza&repo=cryptocoin&show_icons=true&theme=monokai">
 
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 
